@@ -1,0 +1,13 @@
+using System;
+
+namespace DateAndTime
+{
+    class DateAndTime
+    {
+        static void Main()
+        {
+            DateTime dateTime = DateTime.Now;
+            Console.WriteLine(dateTime);
+        }
+    }
+}
