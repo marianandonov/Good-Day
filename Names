@@ -1,0 +1,12 @@
+using System;
+
+namespace Names
+{
+    class Names
+    {
+        static void Main()
+        {
+            Console.WriteLine("Marian Andonov");
+        }
+    }
+}
