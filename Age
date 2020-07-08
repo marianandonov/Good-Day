@@ -1,0 +1,13 @@
+using System;
+
+namespace Age
+{
+    class Age
+    {
+        static void Main()
+        {
+            int age = int.Parse(Console.ReadLine()) + 10;
+            Console.WriteLine(age);
+        }
+    }
+}
